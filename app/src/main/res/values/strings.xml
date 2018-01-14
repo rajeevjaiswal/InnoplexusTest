@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InnoplexusTest</string>
+    <string name="descending">Descending</string>
+    <string name="ascending">Ascending</string>
+    <string name="dummy_name">dummy_name</string>
+    <string name="dummy_email">dummy_email</string>
+</resources>
